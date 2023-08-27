@@ -1,10 +1,10 @@
 # dist_buble  
 Live buble  
-
+  
 -- includes  
 en: import library OS  
 ru: импортируем библиотеку OS  
-
+  
 -- #en: perimeter ru: периметр 
 en: [см. __init__.py]  
 ru:  
