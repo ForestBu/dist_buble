@@ -5,7 +5,8 @@ Live buble
 en: import library OS  
 ru: импортируем библиотеку OS  
   
--- #en: perimeter ru: периметр  
+-- #en: perimeter ru: периметр      
+
 en: [см. __init__.py]  
 ru:  
 
