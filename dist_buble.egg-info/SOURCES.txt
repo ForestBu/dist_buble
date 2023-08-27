@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+dist_buble.egg-info/PKG-INFO
+dist_buble.egg-info/SOURCES.txt
+dist_buble.egg-info/dependency_links.txt
+dist_buble.egg-info/requires.txt
+dist_buble.egg-info/top_level.txt
+package/__init__.py
+package/main.py
