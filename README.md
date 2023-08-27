@@ -4,6 +4,7 @@ Live buble
 -- includes
 
 en: import library OS
+
 ru: импортируем библиотеку OS
 
 -- #en: perimeter ru: периметр
