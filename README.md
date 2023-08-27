@@ -1,5 +1,4 @@
-# dist_buble  
-Live buble  
+# dist_buble
   
 -- includes  
 en: import library OS  
